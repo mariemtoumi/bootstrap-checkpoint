@@ -1,0 +1,57 @@
+body{
+    background-color:darkred;
+    margin: 0%;
+    padding: 0%;
+}
+li{
+    justify-content: flex-start;
+    display: inline;
+}
+.logo {
+    height: 10%;
+    width: 10%;
+}
+.b{
+font-size: 40px;
+color: aliceblue;
+text-decoration: none;
+display: inline;
+margin-left: 50px;
+margin-right: 50px;
+
+}
+.images99{
+    width:100%;
+    height:600px;
+    background-size: cover;
+}
+a
+{text-decoration: none;
+color:aliceblue;
+}
+
+.barre{
+    color: aliceblue;
+    display: flex;
+    justify-content: space-around;
+}
+.h{
+    display: inline-block;
+    height: 10cm;
+    width: 10cm;
+    margin-left: 1cm;
+    
+
+}
+.h:hover{
+    opacity: 0,5;
+}
+.bebe{
+    margin-top: -3cm;
+    position: absolute;
+    margin-left: 3cm;
+    
+}
+.fouk{
+    display: inline-block;
+}
